@@ -1,2 +1,2 @@
-# SandyfirstPythone
-My first Git File
+# SandyfirstPython
+Sandesh Is grt.
